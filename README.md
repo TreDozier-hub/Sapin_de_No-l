@@ -1,6 +1,6 @@
 # Sapin_de_No-l
 
-## Afin d'amusez les petits et les grands, votre responsable vous demande de coder un sapin de Noël.
+## Afin d'amusez les petits et les grands, codons un sapin de Noël.
 Vous allez coder un programme en C# qui affiche un sapin de Noël dans la console. En progressant étape par étape, vous apprendrez à manipuler l’affichage dans la console, à gérer des boucles imbriquées, et à appliquer des fonctionnalités avancées comme la gestion des couleurs et des animations.
 
 ### Critères de performance
