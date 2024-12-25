@@ -1,0 +1,15 @@
+C:\Users\2ki\OneDrive\Bureau\Simplon.NET\Projet_SapinDeNoel\SapinDeNoël\bin\Debug\net8.0\SapinDeNoël.exe
+C:\Users\2ki\OneDrive\Bureau\Simplon.NET\Projet_SapinDeNoel\SapinDeNoël\bin\Debug\net8.0\SapinDeNoël.deps.json
+C:\Users\2ki\OneDrive\Bureau\Simplon.NET\Projet_SapinDeNoel\SapinDeNoël\bin\Debug\net8.0\SapinDeNoël.runtimeconfig.json
+C:\Users\2ki\OneDrive\Bureau\Simplon.NET\Projet_SapinDeNoel\SapinDeNoël\bin\Debug\net8.0\SapinDeNoël.dll
+C:\Users\2ki\OneDrive\Bureau\Simplon.NET\Projet_SapinDeNoel\SapinDeNoël\bin\Debug\net8.0\SapinDeNoël.pdb
+C:\Users\2ki\OneDrive\Bureau\Simplon.NET\Projet_SapinDeNoel\SapinDeNoël\obj\Debug\net8.0\SapinDeNoël.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2ki\OneDrive\Bureau\Simplon.NET\Projet_SapinDeNoel\SapinDeNoël\obj\Debug\net8.0\SapinDeNoël.AssemblyInfoInputs.cache
+C:\Users\2ki\OneDrive\Bureau\Simplon.NET\Projet_SapinDeNoel\SapinDeNoël\obj\Debug\net8.0\SapinDeNoël.AssemblyInfo.cs
+C:\Users\2ki\OneDrive\Bureau\Simplon.NET\Projet_SapinDeNoel\SapinDeNoël\obj\Debug\net8.0\SapinDeNoël.csproj.CoreCompileInputs.cache
+C:\Users\2ki\OneDrive\Bureau\Simplon.NET\Projet_SapinDeNoel\SapinDeNoël\obj\Debug\net8.0\SapinDeNoël.sourcelink.json
+C:\Users\2ki\OneDrive\Bureau\Simplon.NET\Projet_SapinDeNoel\SapinDeNoël\obj\Debug\net8.0\SapinDeNoël.dll
+C:\Users\2ki\OneDrive\Bureau\Simplon.NET\Projet_SapinDeNoel\SapinDeNoël\obj\Debug\net8.0\refint\SapinDeNoël.dll
+C:\Users\2ki\OneDrive\Bureau\Simplon.NET\Projet_SapinDeNoel\SapinDeNoël\obj\Debug\net8.0\SapinDeNoël.pdb
+C:\Users\2ki\OneDrive\Bureau\Simplon.NET\Projet_SapinDeNoel\SapinDeNoël\obj\Debug\net8.0\SapinDeNoël.genruntimeconfig.cache
+C:\Users\2ki\OneDrive\Bureau\Simplon.NET\Projet_SapinDeNoel\SapinDeNoël\obj\Debug\net8.0\ref\SapinDeNoël.dll
