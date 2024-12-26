@@ -130,29 +130,3 @@ namespace MyApp
 
 
 
-
-//            int DessinerFeuilles(int hauteurSapin)
-//            {
-//                for (int i = 0; i < hauteurSapin; i++)
-//                {
-//                    Console.SetCursorPosition((posInitiale - i), i + 2);
-//                    nombreFeuilles = (2 * i) + 1;
-//                    rangFeuilles = new string('\u002A', nombreFeuilles);
-
-//                    Console.WriteLine(rangFeuilles);
-//                }
-
-//                Console.SetCursorPosition((posInitiale - 1), hauteurSapin + 2);
-//                Console.WriteLine("|||");
-
-//                return nombreFeuilles;
-//            }
-
-//            DessinerFeuilles(hauteurSapin);
-
-//        }
-//    }
-//}
-
-
-
